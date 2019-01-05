@@ -1,1 +1,1 @@
-# SLC-Bot
+SLC-Bot
