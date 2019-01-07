@@ -2,6 +2,8 @@ SLC-Bot
 
 Link to the worksheet
 
+https://twitter.com/SLCBot2
+
 https://docs.google.com/document/d/1XGntCNaxR00Ywk8f2XPgx8r5wihIu5QYHHS5bIRatE8/edit
 
 
