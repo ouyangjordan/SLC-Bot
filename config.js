@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
-  consumer_key: '4TPoBQlH83MMaPnffiDW8ut5k',
-  consumer_secret: 'kGyEsrxRg62y9na1M7lYXrtYL9I4uUK9cccMTOg0cnf0KeenJe',
-  access_token_key: '1005211976241328128-QL6PX7EHxXp04Rhh8VrkfGbkRtWtri',
-  access_token_secret: 'YmWoOYrUUXijC1AAH9bAZo2poLym1oc9p83OPcwo9c7jr'
+  consumer_key: 'jRTfSsrDDuDna0eoU5vZV0lvO',
+  consumer_secret: 'wMMllpWkr3ZOWl5cF26G2VuyVS6FikEZ5nGTuECMhLWhKX42wi',
+  access_token_key: '1078479620813385728-DUGhCkujgAl1ZJ6sHpYHDL9gkUstW6',
+  access_token_secret: '2R7FSyQ5JTg4Fh3bR84OtrgDsee6ZTJ6Q2QdEx3yNywB4'
 }
