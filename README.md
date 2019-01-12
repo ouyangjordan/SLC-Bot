@@ -34,6 +34,8 @@ e.g. mkdir <your folder name>
 
 e.g. mkdir yourTwitterBotName
 
+type "ls" to list the items in your current directory
+
 
 ### EXAMPLE COMMANDS FOR THE TWITTER CODE
 
