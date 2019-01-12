@@ -1,5 +1,7 @@
 # SLC-Bot
 
+##### My email is ouyangjordan@gmail.com feel free to reach out.
+
 ### Link to the worksheet
 
 https://docs.google.com/document/d/1XGntCNaxR00Ywk8f2XPgx8r5wihIu5QYHHS5bIRatE8/edit
