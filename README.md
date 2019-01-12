@@ -1,29 +1,36 @@
-SLC-Bot
+#SLC-Bot
 
-Link to the worksheet
-
-https://twitter.com/SLCBot2
+###Link to the worksheet
 
 https://docs.google.com/document/d/1XGntCNaxR00Ywk8f2XPgx8r5wihIu5QYHHS5bIRatE8/edit
 
-Twit library documentation
+###Link to our app/bot
+
+https://twitter.com/SLCBot2
+
+###Twitter NPM library documentation
 
 https://www.npmjs.com/package/twit
 
 
-This app will be used to demonstrate how you can interact with the twitter API. Workshop participants will be able to use the keys to experiment with the twitter platform.
+This app will be used to demonstrate how you can interact with the twitter API.
+Workshop participants will be able to use the keys to experiment with the twitter platform.
+
+###Command Line cheat sheet
 
 Making a directory on your desktop!
 
 cd == change directory
 
-tip type "cd .." to go "back" in the directory
+tip type "cd .." to go "back" to a previous directory
 
 e.g. cd desktop
 
 mkdir == make directory
 
 e.g. mkdir <your folder name>
+
+e.g. mkdir yourTwitterBotName
 
 
 EXAMPLE COMMANDS FOR THE TWITTER CODE
