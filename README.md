@@ -18,6 +18,8 @@ Workshop participants will be able to use the keys to experiment with the twitte
 
 ### Command Line cheat sheet
 
+https://www.git-tower.com/blog/command-line-cheat-sheet/
+
 Making a directory on your desktop!
 
 cd == change directory
@@ -37,15 +39,15 @@ EXAMPLE COMMANDS FOR THE TWITTER CODE
 
 EDIT THE BOTTOM PART OF APP.JS
 
-//  tweet 'hello world!'
-//
+tweet 'hello world!'
+
 T.post('statuses/update', { status: 'hello world!' },
   function(err, data, response) {
   console.log(data)
 })
 
-//  search twitter for all tweets containing the word 'banana' since July 11, 2011
-//
+Search twitter for all tweets containing the word 'banana' since July 11, 2011
+
 T.get('search/tweets', { q: 'banana since:2011-07-11', count: 100 },
   function(err, data, response) {
   console.log(data)
